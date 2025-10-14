@@ -10,9 +10,9 @@ This repo includes practical projects, experiments, and exercises across several
 | 📚 Subject | 🧩 Description |
 |------------|----------------|
 | 🤖 **Natural Language Processing** | Text processing, embeddings, and language models. |
-| 📐 **Mathematics for Artificial Intelligence** | Linear algebra, probability, and optimization foundations for AI. |
+| 📐 **Mathematics for Artificial Intelligence** | Logic, graphs, networks, etc. |
 | 🧬 **Bioinspired Algorithms & Evolutionary Learning** | Implementations of GA, PSO, and other bioinspired optimization methods. |
-| 🔢 **Calculus for Artificial Intelligence** | Multivariable calculus applied to neural networks and machine learning. |
+| 🔢 **Calculus for Artificial Intelligence** | Vectorial Calculus, Differential Ecuations, etc. |
 | 📊 **Data Science Applied to Economics** | Data analysis and modeling focused on economic indicators. |
 
 ---
