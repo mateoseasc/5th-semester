@@ -18,15 +18,14 @@ This repo includes practical projects, experiments, and exercises across several
 ---
 
 ## 📂 Structure  
+"""
 📁 5th-semester/
 ├── NLP/ 
 ├── Maths_AI/ 
 ├── Bioinspired_Algorithms/ 
 ├── Calculus_AI/ 
 └── DataScience_Economy/ 
+"""
 
-.
-
-.
 
 
